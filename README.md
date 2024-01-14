@@ -7,7 +7,7 @@ Hi there! 👋 I'm Nehoray Maimon, an Industrial and Management student with a p
 - 🚀 Passionate about software development and coding.
 - 🐍 Python enthusiast, always exploring new libraries and frameworks.
 - ☕ Java lover, with a focus on building scalable applications.
-- 📊 SQL wizard, proficient in managing and analyzing data.
+- 📊 SQL proficient in managing and analyzing data.
 - 📖 Constantly expanding my knowledge in the world of technology and management.
 
 ## Contact Me
