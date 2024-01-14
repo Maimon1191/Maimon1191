@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! 👋 I'm [Nehoray Maimon], an Industrial and Management student with a passion for programming and data analysis. I'm a serious and dedicated learner who loves working with Java, Python, and SQL.
+Hi there! 👋 I'm Nehoray Maimon, an Industrial and Management student with a passion for programming and data analysis. I'm a serious and dedicated learner who loves working with Java, Python, and SQL.
 
 ## My Interests
 
